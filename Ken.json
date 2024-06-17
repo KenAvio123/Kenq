@@ -1,0 +1,43 @@
+{
+  "anime": [
+    {
+      "title": "Attack on Titan",
+      "genre": ["Action", "Drama", "Fantasy"],
+      "episodes": 75,
+      "status": "Ongoing",
+      "aired": {
+        "from": "2013-04-07",
+        "to": null
+      },
+      "studio": "Wit Studio",
+      "description": "Several hundred years ago, humans were nearly exterminated by Titans. Now, the remnants of humanity reside within three enormous concentric walls, and Eren Yeager seeks to rid the world of the Titans once and for all.",
+      "rating": 8.52
+    },
+    {
+      "title": "My Hero Academia",
+      "genre": ["Action", "Comedy", "Super Power"],
+      "episodes": 113,
+      "status": "Ongoing",
+      "aired": {
+        "from": "2016-04-03",
+        "to": null
+      },
+      "studio": "Bones",
+      "description": "In a world where people with superpowers known as 'Quirks' are the norm, Izuku Midoriya dreams of becoming a Hero despite being Quirkless. He is scouted by Japan's greatest hero, who shares his Quirk with Izuku after recognizing his potential.",
+      "rating": 8.05
+    },
+    {
+      "title": "Naruto",
+      "genre": ["Action", "Adventure", "Shounen"],
+      "episodes": 220,
+      "status": "Finished",
+      "aired": {
+        "from": "2002-10-03",
+        "to": "2007-02-08"
+      },
+      "studio": "Studio Pierrot",
+      "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+      "rating": 7.93
+    }
+  ]
+}
